@@ -111,3 +111,5 @@ The vision of **GardenPlot** is to create a decentralized platform that brings c
   Contract Address: 0xDF048E3CDc73a8205dDA8B2700C6e661b2127E65
 
 ---
+
+![Screenshot (5)](https://github.com/user-attachments/assets/82509066-5f95-4b02-99b0-7e0ceecc5a2d)
